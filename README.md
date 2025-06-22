@@ -1,1 +1,2 @@
 # cyberattacksdetection
+Cyberattacks detection using machine learning (ML) is an advanced method that leverages algorithms and data-driven models to identify malicious activities and intrusions in digital systems. Traditional cybersecurity systems rely heavily on signature-based detection, which struggles to keep up with the growing number and complexity of modern threats. Machine learning provides a more dynamic and adaptive solution.
